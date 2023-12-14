@@ -1,2 +1,9 @@
 # Advising-Assisting-Software
 This program loads data from a file into a data structure, displays a sample course list, and prints a course list and prerequisites using the designated file.
+
+The main problem that this program aims to solve is the organizational issues that come when handling extensive amounts of data. The program accomplishes this by is different structures, functions and methods designed to handle the size and organization required for the benefit of the user.
+I approached the problem by considering the necessary variables and structures and implementing them in a way that satisfies the functions that solve these problems. Structures and variables were crucial to this program, mainly, because the data needed to be moved around with the help of
+binary tree's, vector's and linked list's structure strategies that made sure the program satisfied the established requirements. Every roadblock and difficulty I faced during the construction of this program was solved by re-reading the course's book, consulted with more experienced 
+programers and researched for other strategies that facilitated my program. My work on this project expanded my approach to designing software and developing programs by allowing me to consider the different data structures that speeds up and improves development. Now when I face a 
+program similar to this one, I can implement the same, or similar, strategies used for this project and save time and resources. It has also evolved the way I write programs that are maintainable, readable and adaptable by learning from the professor's and book program examples and
+improving my coding strategies based on them. Keeping up this program-writing evolution strategy, and practicing with similar programs, can help me prepare for professional-level software and program development.
